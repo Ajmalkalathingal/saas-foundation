@@ -6,4 +6,4 @@ watchPatterns = [
     "src/**", 
     "railway.toml",
     "Dockerfile",
-]   
+]
